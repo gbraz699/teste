@@ -17,5 +17,5 @@ Instruções sobre como instalar e configurar o projeto localmente. Inclua coman
 # Exemplo de comando para clonar o repositório
 git clone https://github.com/seu-usuario/nome-do-projeto.git
 
-# Exemplo de comando para instalar dependências
+# Exemplo de comando para instalar 
 npm install
